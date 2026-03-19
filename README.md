@@ -253,4 +253,5 @@ Note: Access may require sign-in due to Power BI sharing permissions.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]
+(dashboard.png)
