@@ -252,4 +252,4 @@ https://app.powerbi.com/links/XKhWZ4R-kZ?ctid=c233c072-135b-431d-af59-35e05babf9
 Note: Access may require sign-in due to Power BI sharing permissions.
 
 ## Dashboard Preview
-
+![Dashboard](dashboard.png)
